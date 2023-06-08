@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {
+    font-family: "Roboto";
+    background-color: #ebebeb;
+}
+.main-header {
+    background-color: #eac926;
+    padding: 10px;
+    width: 100%;
+}
+
+.logo {
+    width: 50%;
+}
+.banner {
+    width: 50%;
+}
+.imagen-producto {
+    width: 123px;
+
+}
